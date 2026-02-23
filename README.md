@@ -9,9 +9,13 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
   1.Input matrix dimensions and initialize augmented matrix and solution vector.
+  
   2.Populate the augmented matrix with user inputs.
+  
   3.Perform Gaussian elimination to reduce the matrix to upper triangular form, ensuring no division by zero.
+  
   4.Back substitute to compute solution values for the variables.
+  
   5.Print the solution vector formatted to two decimal places.
 
 ## Program:
@@ -54,7 +58,6 @@ for i in range(n):
 ## Output:
 <img width="924" height="838" alt="Screenshot 2026-02-23 125017" src="https://github.com/user-attachments/assets/1b79cfbd-c525-41d6-9b49-a97aad1b717e" />
 
-![gaussian elimination]()
 
 
 ## Result:
