@@ -15,7 +15,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Program:
 '''Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: Jagan Kumar V
+ 
+ Developed by: Jagan Kumar V
+
 RegisterNumber: 212225100018
 '''
 ```python
